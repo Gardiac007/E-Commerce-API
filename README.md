@@ -7,3 +7,6 @@ This is an E-Commerce API with multiple models and it has some advanced features
 - Added **Advanced Filtering and Sorting** techniques for data retrieval (SearchFilter, OrderingFilter).
 - **JWT** is used for User Authentication.
 - **DRF Throttling** is implemented for Rate-Limiting and prevents from DDoS Attacks. 
+
+### API Endpoints:
+For this project, I have made a **Postman** Collection called ```E-Commerce API``` and you can access it by the below link:
