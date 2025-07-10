@@ -9,6 +9,18 @@ This is an E-Commerce API with multiple models and it has some advanced features
 - **DRF Throttling** is implemented for Rate-Limiting and prevents from DDoS Attacks.
 - This API can provides CRUD operations on Products, Categories and Orders.
 
+### Requirements.txt
+```
+﻿asgiref==3.9.0
+Django==5.2.4
+django-filter==25.1
+djangorestframework==3.16.0
+djangorestframework_simplejwt==5.5.0
+PyJWT==2.9.0
+sqlparse==0.5.3
+tzdata==2025.2
+```
+
 > [!NOTE]
 > Use **Postman** for JWT Authentication and Use Authentication headers.
 
