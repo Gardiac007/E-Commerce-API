@@ -9,7 +9,7 @@ This is an E-Commerce API with multiple models and it has some advanced features
 - **DRF Throttling** is implemented for Rate-Limiting and prevents from DDoS Attacks.
 - This API can provides CRUD operations on Products, Categories and Orders.
 
-### Requirements.txt
+### [Requirements.txt]()
 ```
 ﻿asgiref==3.9.0
 Django==5.2.4
